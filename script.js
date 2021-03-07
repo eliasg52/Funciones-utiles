@@ -74,3 +74,5 @@ for (let numero of numeros) {
 numeros.forEach((numero, index) =>
   console.log(`${numero} esta en la posicion ${index}`)
 );
+
+//EVITAR RECARGA DE FORMULARIO
